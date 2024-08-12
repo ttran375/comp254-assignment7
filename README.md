@@ -39,4 +39,4 @@ until all items are sorted in ascending order within a single queue.
 
 Write a Java/Python application to test your solution.
 
-> (5 marks)
+(5 marks)
